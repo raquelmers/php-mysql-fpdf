@@ -1,2 +1,2 @@
 # php-mysql-fpdf
-simple usage fpdf library with php and mysql
+simple project to practice fpdf library with php and mysql
